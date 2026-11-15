@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shripandey1012-spec/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
